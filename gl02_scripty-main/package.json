@@ -1,0 +1,17 @@
+{
+  "name": "gl02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@caporal/core": "^2.0.2",
+    "colors": "^1.4.0",
+    "vega": "^5.17.0",
+    "vega-lite": "^4.17.0"
+  }
+}
