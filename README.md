@@ -1,4 +1,4 @@
-Ce projet, réalisé par l'équipe scripty (équipe de 4 étudiants UTT) permet d'utiliser un jeu de données de fichiers .cru contenant les créneaux d'utilisation des salles pour chaque UE (Unité d'Enseignement) dans une université.
+Ce projet, réalisé fin 2022 par l'équipe scripty (équipe de 4 étudiants UTT) permet d'utiliser un jeu de données de fichiers .cru contenant les créneaux d'utilisation des salles pour chaque UE (Unité d'Enseignement) dans une université.
 
 L'application est développée en javascript. 
 Un tutoriel d'installation et d'utilisation des différentes commandes est disponible dans le fichier README.md du projet (dans le dossier gl02_scripty-main).
